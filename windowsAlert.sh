@@ -9,4 +9,4 @@ cscript MessageBox.vbs "This will be shown in a popup."
 # Fuente: 
 # https://stackoverflow.com/questions/16365130/what-is-the-difference-between-usr-bin-env-bash-and-usr-bin-bash
 # https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/scripting-articles/sfw6660x(v=vs.84)
-#
+# https://stackoverflow.com/questions/20335878/is-it-possible-to-run-a-vbscript-in-unix-environment
